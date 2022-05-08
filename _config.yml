@@ -6,13 +6,4 @@ title: PhD Course: Data compression and compressed data structures
 # Your name to show in the footer
 author: Giovanni Manzini
 
-# --- List of links in the navigation bar --- #
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
 theme: jekyll-theme-cayman
