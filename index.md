@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## PhD Course: Data compression and compressed data structures
 
-You can use the [editor on GitHub](https://github.com/Laboratorio2B/data-compression/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Lecturers: Giovanni Manzini, Paolo Ferragina. University of Pisa.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Tentative lesson plan: 
 
-### Markdown
+1. Statement of the Data compression problem. Main ideas beyond compression techniques: symbol substitution, phrase encoding, data transformations (16/5)
+2. Measures of compressibility: entropy and beyond. Some optimality results and their meaning (17/5)
+3. Burrows-Wheeler compression, Suffix array, introduction to compressed indices (18/5)
+4. Rank and select operations. Wavelet trees and some applications (25/5)
+5. Generalization of compressed indices: Wheeler graphs (26/5)
+6. Compact representation of tree, graphs, and other structures (27/5)
+7. Compressed indices for genomic datasets (30/5)
+8. Learned data structures (31/5)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**All lectures are 9am-11am in Room 308 (Sala Polifunzionale)**
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### There are two possible exam formats:
 
-- Bulleted
-- List
+a. students can present a problem/idea related to their research and show how it can take advantage of the techniques described in the course, possibly including a prototype of the suggested solution
 
-1. Numbered
-2. List
+b. students can present a related topic not covered in the course using materials provided by the instructors
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Laboratorio2B/data-compression/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
