@@ -3,7 +3,6 @@
 # Name of website
 title: PhD Course: Data compression and compressed data structures
 
-# Your name to show in the footer
-author: Giovanni Manzini
+description: Computer Science Dept. University of Pisa 
 
 theme: jekyll-theme-cayman
