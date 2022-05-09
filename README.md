@@ -8,14 +8,14 @@ Welcome to the website for the course *Data compression and compressed data stru
 
 ## GitHub Pages 
 
-You can use the [editor on GitHub](https://github.com/Laboratorio2B/data-compression/edit/docs/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/Laboratorio2B/data-compression/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 ### GitHub Pages 101
 
-[The Least You Need to Know About GitHub Pages](https://tomcam.github.io/least-github-pages/), [Easy websites with GitHub Pages](https://kbroman.org/simple_site/)
+[The Least You Need to Know About GitHub Pages](https://tomcam.github.io/least-github-pages/), [Easy websites with GitHub Pages](https://kbroman.org/simple_site/), [Working with multiple GitHub accounts](https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a)
 
 
 ### Jekyll Themes
