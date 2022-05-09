@@ -1,6 +1,7 @@
-## PhD Course: Data compression and compressed data structures
+## Data compression and compressed data structures
 
-Lecturers: Giovanni Manzini, Paolo Ferragina. University of Pisa.
+Lecturers: Giovanni Manzini, Paolo Ferragina. 
+Computer Science Dept. University of Pisa.
 
 ### Tentative lesson plan: 
 
@@ -14,6 +15,7 @@ Lecturers: Giovanni Manzini, Paolo Ferragina. University of Pisa.
 8. Learned data structures (31/5)
 
 **All lectures are 9am-11am in Room 308 (Sala Polifunzionale)**
+Streaming available on [Google Meet](https://meet.google.com/ajp-dqij-vvh). Lectures will not be recorded. 
 
 
 ### There are two possible exam formats:
