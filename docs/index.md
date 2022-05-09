@@ -20,7 +20,7 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 
 ### There are two possible exam formats:
 
-a. students can present a problem/idea related to their research and show how it can take advantage of the techniques described in the course, possibly including a prototype of the suggested solution
+1. students can present a problem/idea related to their research and show how it can take advantage of the techniques described in the course, possibly including a prototype of the suggested solution
 
-b. students can present a related topic not covered in the course using materials provided by the instructors
+2. students can present a related topic not covered in the course using materials provided by the instructors
 
