@@ -14,7 +14,7 @@ Computer Science Dept. University of Pisa.
 7. Compressed indices for genomic datasets (30/5)
 8. Learned data structures (31/5)
 
-**All lectures are 9am-11am in Room 308 (Sala Polifunzionale).**
+**All lectures are 9am-11am in Sala Seminari EST (Room 351).**
 Streaming will be available on Google Meet: email me for the link. Lectures will not be recorded. 
 
 
