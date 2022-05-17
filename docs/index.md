@@ -24,3 +24,8 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 
 2. students can present a related topic not covered in the course using materials provided by the instructors
 
+
+### Study material
+
+* [Slides lectures 1 & 2](/data-compression/slides/1DataCompressionAndEntropy.pdf) 
+
