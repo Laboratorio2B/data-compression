@@ -5,10 +5,10 @@ Computer Science Dept. University of Pisa.
 
 ### Tentative lesson plan: 
 
-1. Statement of the Data compression problem. Main ideas beyond compression techniques: symbol substitution, phrase encoding, data transformations (16/5)
-2. Measures of compressibility: entropy and beyond. Some optimality results and their meaning (17/5)
-3. Burrows-Wheeler compression, Suffix array, introduction to compressed indices (18/5)
-4. Rank and select operations. Wavelet trees and some applications (25/5)
+1. Statement of the Data compression problem. Main ideas beyond compression techniques: symbol substitution, phrase encoding, data transformations. Kraft inequality (16/5)
+2. Consequences of Kraft Inequality. Order-0 Entropy. Optimal codes, Huffman codes. Oder-k entropy PPM algorithm. LZ77 parsing, definition, bounds in terms of the order-k entropy (17/5)
+3. Burrows-Wheeler transform, relation with k-order entropy. Compression boosting. Beyond entropy: others measures of compressibility (18/5).
+4. Introduction to compressed indices. Rank and select operations. Wavelet trees and some applications (25/5)
 5. Generalization of compressed indices: Wheeler graphs (26/5)
 6. Compact representation of tree, graphs, and other structures (27/5)
 7. Compressed indices for genomic datasets (30/5)
@@ -28,4 +28,11 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 ### Study material
 
 * [Slides lectures 1 & 2](/data-compression/slides/1DataCompressionAndEntropy.pdf) 
+
+* [Cover, Thomas. *Elements of Information Theory*](https://archive.org/details/ElementsOfInformationTheory2ndEd), Chapter 5 covers Kraft inequality and Huffman Coding.
+
+* [LZ parsing and entropy](/data-compression/papers/sicomp00.pdf). In-depth analysis of LZ77 and LZ78 algorithms, a little bit technical.
+
+
+
 
