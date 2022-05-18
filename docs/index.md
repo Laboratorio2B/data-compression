@@ -29,14 +29,14 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 
 * [Slides lectures 1 & 2](/data-compression/slides/1DataCompressionAndEntropy.pdf) 
 
-* [Cover, Thomas. *Elements of Information Theory*](https://archive.org/details/ElementsOfInformationTheory2ndEd), Chapter 5 covers Kraft inequality and Huffman Coding.
+* [Book: Cover, Thomas. *Elements of Information Theory*](https://archive.org/details/ElementsOfInformationTheory2ndEd), Chapter 5 covers Kraft inequality and Huffman Coding.
 
-* [LZ parsing and entropy](/data-compression/papers/sicomp00.pdf). In-depth analysis of LZ77 and LZ78 algorithms, a little bit technical.
+* [Paper: LZ parsing and entropy](/data-compression/papers/sicomp00.pdf). In-depth analysis of LZ77 and LZ78 algorithms, a little bit technical.
 
-* [Introduction to the BWT](/data-compression/slides/BWTintro.pdf)
+* [Slides: Introduction to the BWT](/data-compression/slides/BWTintro.pdf)
 
-* [A "simple" analysis of BWT+MTF+Order0](/data-compression/papers/BWTanalysis.pdf) 
+* [Paper: A "simple" analysis of BWT+MTF+Order0](/data-compression/papers/BWTanalysis.pdf) 
 
-* [Compression boosting with the BWT](/data-compression/slides/BWTboosting.pdf), [full paper](/data-compression/papers/boosting.pdf)
+* [Slides](/data-compression/slides/BWTboosting.pdf) and [full paper](/data-compression/papers/boosting.pdf) on Compression boosting with the BWT
 
 
