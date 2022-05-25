@@ -39,6 +39,6 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 
 * [Slides](/data-compression/slides/BWTboosting.pdf) and [full paper](/data-compression/papers/boosting.pdf) on Compression boosting with the BWT
 
-* [Paper: Repetitiveness Measures](/data-compression/papers/repetitivenessMeasures.pdf).  Note that the proof $\gamma \leq b$ at page 19 is incorrect: to build an attractor you need to take the first position of each phrase.
+* [Paper on Repetitiveness Measures](/data-compression/papers/repetitivenessMeasures.pdf). Note that the proof of inequality $\gamma \leq b$ at page 19 is incorrect: to build an attractor you need to take the first position of each phrase.
 
 
