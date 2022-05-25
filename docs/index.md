@@ -8,9 +8,9 @@ Computer Science Dept. University of Pisa.
 1. Statement of the Data compression problem. Main ideas beyond compression techniques: symbol substitution, phrase encoding, data transformations. Kraft inequality (16/5)
 2. Consequences of Kraft Inequality. Order-0 Entropy. Optimal codes, Huffman codes. Oder-k entropy PPM algorithm. LZ77 parsing, definition, bounds in terms of the order-k entropy (17/5)
 3. Burrows-Wheeler transform, relation with k-order entropy. Compression boosting (18/5)
-4. Beyond entropy: others measures of compressibility. Introduction to compressed indices. Wheeler Graphs (25/5)
-5. Rank and select operations. Wavelet trees and some applications (26/5)
-6. Compact representation of tree, graphs, and other structures (27/5)
+4. Beyond entropy: others measures of compressibility (25/5)
+5. Introduction to compressed indices and Wheeler Graphs (26/5)
+6. Rank and select operations. Wavelet trees and some applications. Compact representation of tree, graphs, and other structures (27/5)
 7. Compressed indices for genomic datasets (30/5)
 8. Learned data structures (31/5)
 
@@ -38,5 +38,7 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 * [Paper: A "simple" analysis of BWT+MTF+Order0](/data-compression/papers/BWTanalysis.pdf) 
 
 * [Slides](/data-compression/slides/BWTboosting.pdf) and [full paper](/data-compression/papers/boosting.pdf) on Compression boosting with the BWT
+
+* [Paper: Repetitiveness Measures](/data-compression/papers/repetitivenessMeasures.pdf).  Note that the proof $\gamma \leq b$ at page 19 is incorrect: to build an attractor you need to take the first position of each phrase.
 
 
