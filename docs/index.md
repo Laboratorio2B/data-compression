@@ -10,8 +10,8 @@ Computer Science Dept. University of Pisa.
 3. Burrows-Wheeler transform, relation with k-order entropy. Compression boosting (18/5)
 4. Beyond entropy: others measures of compressibility (25/5)
 5. Introduction to compressed indices and Wheeler Graphs (26/5)
-6. Rank and select operations. Wavelet trees and some applications. Compact representation of tree, graphs, and other structures (27/5)
-7. Compressed indices for genomic datasets (30/5)
+6. Compressed indices for genomic datasets (27/5)
+7. Rank and select operations. Wavelet trees and some applications (30/5)
 8. Learned data structures (31/5)
 
 **All lectures are 9am-11am in Sala Seminari EST (Room 351).**
@@ -40,5 +40,9 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 * [Slides](/data-compression/slides/BWTboosting.pdf) and [full paper](/data-compression/papers/boosting.pdf) on Compression boosting with the BWT
 
 * [Paper on Repetitiveness Measures](/data-compression/papers/repetitivenessMeasures.pdf). Note that the proof of inequality $\gamma \leq b$ at page 19 is incorrect: to build an attractor you need to take the first position of each phrase.
+
+* [Slides](/data-compression/slides/BWTindex.pdf) on BWT-based indices
+
+* [Slides](/data-compression/slides/WG.pdf) on Wheeler Graphs/Automata
 
 
