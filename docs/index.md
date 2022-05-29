@@ -10,8 +10,8 @@ Computer Science Dept. University of Pisa.
 3. Burrows-Wheeler transform, relation with k-order entropy. Compression boosting (18/5)
 4. Beyond entropy: others measures of compressibility (25/5)
 5. Introduction to compressed indices and Wheeler Graphs (26/5)
-6. Compressed indices for genomic datasets (27/5)
-7. Rank and select operations. Wavelet trees and some applications (30/5)
+6. Compressed indices for higliy repetitive collections (r-index) (27/5)
+7. The predecessor search problem (30/5)
 8. Learned data structures (31/5)
 
 **All lectures are 9am-11am in Sala Seminari EST (Room 351).**
@@ -44,5 +44,7 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 * [Slides](/data-compression/slides/BWTindex.pdf) on BWT-based indices
 
 * [Slides](/data-compression/slides/WG.pdf) on Wheeler Graphs/Automata
+
+* [Paper on the R-index](/data-compression/papers/rindex.pdf)
 
 
