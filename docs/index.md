@@ -10,9 +10,9 @@ Computer Science Dept. University of Pisa.
 3. Burrows-Wheeler transform, relation with k-order entropy. Compression boosting (18/5)
 4. Beyond entropy: others measures of compressibility (25/5)
 5. Introduction to compressed indices and Wheeler Graphs (26/5)
-6. Compressed indices for higliy repetitive collections (r-index) (27/5)
-7. The predecessor search problem (30/5)
-8. Learned data structures (31/5)
+6. Compressed indices for highly repetitive collections (r-index) (27/5)
+7. Predecessor search: models of computation and various contexts of application. Binary Search. The case of bounded universe: x-fast trie and y-fast trie. The case of uniform key distributions: interpolation search with complexity evaluation. (30/5)
+8. Elias-fano coding with constant time access. Learned data structures (31/5)
 
 **All lectures are 9am-11am in Sala Seminari EST (Room 351).**
 Streaming will be available on Google Meet: email me for the link. Lectures will not be recorded. 
@@ -46,5 +46,14 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 * [Slides](/data-compression/slides/WG.pdf) on Wheeler Graphs/Automata
 
 * [Paper on the R-index](/data-compression/papers/rindex.pdf)
+
+* [Slides](/data-compression/slides/xy-fast_trie) on x-fast and y-fast tries
+
+* [Book on algorithm engineering](https://www.dropbox.com/s/b3bu01nyz8zkqmi/Algorithm_Engineering_Book.pdf?dl=0). The relevant sections are: the Prologue, Sect. 9.2 (interpolation search), Sect. 11.6 (Elias-Fano).
+
+* [Paper on the index described in the last lecture](http://www.vldb.org/pvldb/vol13/p1162-ferragina.pdf)
+
+* [Review on learned data structures](http://learned.di.unipi.it/publication/learned-data-structures/learned-data-structures.pdf)
+
 
 
