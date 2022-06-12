@@ -61,9 +61,9 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 
 Name | Topic | Date |
 --- | --- | ---|
-| Antonio Boffa    | Tree-encoded bitmaps |
-| Cosimo Rulli     | Neural networks compression | 
-| Daniele Atzeni   | Neural networks compression for edge devices |
-| Federica Baccini | Graph Compression |
-| Lorenzo Catania  | Compression of genomic datasets via INR | 
+| Antonio Boffa    | Tree-encoded bitmaps | |
+| Cosimo Rulli     | Neural networks compression | | 
+| Daniele Atzeni   | Neural networks compression for edge devices | |
+| Federica Baccini | Graph Compression | |
+| Lorenzo Catania  | Compression of genomic datasets via INR |  |
 
