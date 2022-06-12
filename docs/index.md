@@ -59,8 +59,8 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 
 ### Students' presentations
 
-Name | Topic | Date |
---- | --- | ---|
+| Name | Topic | Date |
+| --- | --- | ---|
 | Antonio Boffa    | Tree-encoded bitmaps | |
 | Cosimo Rulli     | Neural networks compression | | 
 | Daniele Atzeni   | Neural networks compression for edge devices | |
