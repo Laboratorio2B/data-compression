@@ -68,5 +68,6 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 | Lorenzo Catania  | Compression of genomic datasets via INR |  |
 | Domenico Tortola | On the compression of blockchain | |
 | Luca Corbucci, Rudy Semola | Neural network-based compression | |
+| Alessandro Bocci | EEG? | |
 
 
