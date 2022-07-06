@@ -61,13 +61,13 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 
 | Name | Topic | Date |
 | --- | --- | ---|
-| Antonio Boffa    | Tree-encoded bitmaps | |
-| Cosimo Rulli     | Neural networks compression | | 
+| Antonio Boffa    | Compressing ultra-large source code datasets using locality-sensitive hashing | 29-07 |
+| Cosimo Rulli     | Neural networks compression | 14-07 | 
 | Daniele Atzeni   | Neural networks compression for edge devices | |
-| Federica Baccini | Graph Compression | |
-| Lorenzo Catania  | Compression of genomic datasets via INR |  |
+| Federica Baccini | Graph Compression | 27-07|
+| Lorenzo Catania  | Compression of genomic datasets via INR |  26-07 |
 | Domenico Tortola | On the compression of blockchain | |
 | Luca Corbucci, Rudy Semola | Neural network-based compression | |
-| Alessandro Bocci | EEG? | |
+| Alessandro Bocci | EEG? | 28-07|
 
 
