@@ -66,7 +66,7 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 | Daniele Atzeni   | Neural networks compression for edge devices | |
 | Federica Baccini | Graph Compression | 27-07|
 | Lorenzo Catania  | Compression of genomic datasets via INR |  26-07 |
-| Domenico Tortola | On the compression of blockchain | |
+| Domenico Tortola | On the compression of blockchain | 27-07 |
 | Luca Corbucci, Rudy Semola | Neural network-based compression | |
 | Alessandro Bocci | EEG? | 28-07|
 
