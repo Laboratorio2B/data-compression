@@ -69,5 +69,7 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 | Domenico Tortola | On the compression of blockchain | 27-07 |
 | Luca Corbucci, Rudy Semola | Neural network-based compression | 28-7 |
 | Alessandro Bocci | EEG? | 28-07|
+| Andrea Guerra | A heuristic for the packaging of source code in Software Heritage | 28-7 |
+| Domenico Tortorella |  | |
 
 
