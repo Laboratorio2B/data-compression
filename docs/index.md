@@ -64,12 +64,12 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 | Antonio Boffa    | Compressing ultra-large source code datasets using locality-sensitive hashing | 29-07 |
 | Cosimo Rulli     | Neural networks compression | **14-07** | 
 | Daniele Atzeni, Francesco Tosoni  | Neural networks compression for edge devices | 29-07|
-| Federica Baccini | Graph Compression | 27-07|
+| Federica Baccini | Graph Compression | **27-07**|
 | Lorenzo Catania  | Compression of genomic datasets via INR |  26-07 |
-| Domenico Tortola | On the compression of blockchain | 27-07 |
+| Domenico Tortola | On the compression of blockchain | **27-07** |
 | Luca Corbucci, Rudy Semola | Neural network-based compression | 28-07 |
-| Alessandro Bocci | EEG? | 28-07|
-| Andrea Guerra | A heuristic for the packaging of source code in Software Heritage | 28-07 |
+| Alessandro Bocci | EEG compression | 28-07|
+| Andrea Guerra | A heuristic for the packaging of source code in Software Heritage | 29-07 |
 | Domenico Tortorella |  | |
 
 
