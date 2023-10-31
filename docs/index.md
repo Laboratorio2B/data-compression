@@ -27,27 +27,27 @@ Streaming will be available on Google Meet: email me for the link. Lectures will
 
 ### Study material
 
-* [Slides lectures 1 & 2](/data-compression/blob/main/docs/slides/1DataCompressionAndEntropy.pdf) 
+* [Slides lectures 1 & 2](/Laboratorio2B/data-compression/blob/main/docs/slides/1DataCompressionAndEntropy.pdf) 
 
 * [Book: Cover, Thomas. *Elements of Information Theory*](https://archive.org/details/ElementsOfInformationTheory2ndEd), Chapter 5 covers Kraft inequality and Huffman Coding.
 
-* [Paper: LZ parsing and entropy](/data-compression/blob/main/docs/papers/sicomp00.pdf). In-depth analysis of LZ77 and LZ78 algorithms, a little bit technical.
+* [Paper: LZ parsing and entropy](/Laboratorio2B/data-compression/blob/main/docs/papers/sicomp00.pdf). In-depth analysis of LZ77 and LZ78 algorithms, a little bit technical.
 
-* [Slides: Introduction to the BWT](/data-compression/blob/main/docs/slides/BWTintro.pdf)
+* [Slides: Introduction to the BWT](/Laboratorio2B/data-compression/blob/main/docs/slides/BWTintro.pdf)
 
-* [Paper: A "simple" analysis of BWT+MTF+Order0](/data-compression/blob/main/docs/papers/BWTanalysis.pdf) 
+* [Paper: A "simple" analysis of BWT+MTF+Order0](/Laboratorio2B/data-compression/blob/main/docs/papers/BWTanalysis.pdf) 
 
-* [Slides](/data-compression/blob/main/docs/slides/BWTboosting.pdf) and [full paper](/data-compression/blob/main/docs/papers/boosting.pdf) on Compression boosting with the BWT
+* [Slides](/Laboratorio2B/data-compression/blob/main/docs/slides/BWTboosting.pdf) and [full paper](/Laboratorio2B/data-compression/blob/main/docs/papers/boosting.pdf) on Compression boosting with the BWT
 
-* [Paper on Repetitiveness Measures](/data-compression/blob/main/docs/papers/repetitivenessMeasures.pdf). Note that the proof of inequality $\gamma \leq b$ at page 19 is incorrect: to build an attractor you need to take the first position of each phrase.
+* [Paper on Repetitiveness Measures](/Laboratorio2B/data-compression/blob/main/docs/papers/repetitivenessMeasures.pdf). Note that the proof of inequality $\gamma \leq b$ at page 19 is incorrect: to build an attractor you need to take the first position of each phrase.
 
-* [Slides](/data-compression/blob/main/docs/slides/BWTindex.pdf) on BWT-based indices
+* [Slides](/Laboratorio2B/data-compression/blob/main/docs/slides/BWTindex.pdf) on BWT-based indices
 
-* [Slides](/data-compression/blob/main/docs/slides/WG.pdf) on Wheeler Graphs/Automata
+* [Slides](/Laboratorio2B/data-compression/blob/main/docs/slides/WG.pdf) on Wheeler Graphs/Automata
 
-* [Paper on the R-index](/data-compression/blob/main/docs/papers/rindex.pdf)
+* [Paper on the R-index](/Laboratorio2B/data-compression/blob/main/docs/papers/rindex.pdf)
 
-* [Slides](/data-compression/blob/main/docs/slides/xy-fast_trie) on x-fast and y-fast tries
+* [Slides](/Laboratorio2B/data-compression/blob/main/docs/slides/xy-fast_trie) on x-fast and y-fast tries
 
 * [Book on algorithm engineering](https://www.dropbox.com/s/b3bu01nyz8zkqmi/Algorithm_Engineering_Book.pdf?dl=0). The relevant sections are: the Prologue, Sect. 9.2 (interpolation search), Sect. 11.6 (Elias-Fano).
 
