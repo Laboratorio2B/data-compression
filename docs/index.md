@@ -16,15 +16,15 @@ Computer Science Dept. University of Pisa.
 8. (15/12)
 
 
-**All lectures are 9am-11am in Sala Seminari EST (Room 351).**
+**All lectures are 9am-11am in Sala Seminari EST (Room 351)** There will be no streaming or recording of the lectures. 
  
 
 
 ### There are two possible exam formats:
 
-1. students can present a problem/idea related to their research and show how it can take advantage of the techniques described in the course including a working prototype of the suggested solution
+1. Students can present a problem/idea related to their research and show how it can take advantage of the techniques described in the course; this must include a working prototype of the suggested solution.
 
-2. students can present a related topic not covered in the course using materials provided by the instructors
+2. Students can present a related topic, not covered in the course, using materials provided by the instructors. 
 
 
 
