@@ -9,9 +9,10 @@ Computer Science Dept. University of Pisa.
 1. Statement of the lossless data compression problem. Kraft inequality.  Order-0 Entropy. Optimal codes, Huffman codes and arithmetic coding (22/11).
 2. Beyond order-0 Entropy: MTF + gamma codes. Order-k entropy. PPM algorithms (24/11).
 3. LZ77 parsing: definition, bounds in terms of the order-k entropy. Introduction to the Burrows-Wheeler transform (27/11).
-4. Compression bounds for the BWT. Introduction to compressed indices. (29/11)
-5. Wavelet Trees for efficient rank operations. Wheeler graphs (4/12).
-6. (6/12)
+4. Compression bounds for the BWT. Introduction to compressed indices (29/11).
+5. Wavelet Trees for efficient rank operations. Bitvectors supporting Rank/Select operations (4/12).
+6. From compressed bitvectors to compressed indices. Finding the position of the occurrences. 
+   Introduction to Wheeler graphs (6/12)
 7. (13/12)
 8. (15/12)
 
@@ -42,6 +43,21 @@ Computer Science Dept. University of Pisa.
 
 * [Slides: searching using the BWT](/data-compression/slides/BWTindex.pdf)
 
+* [Slides: introduction to Wavelet Trees](/data-compression/slides/WaveletIntro.pdf)
+
+
 
 ### Possible exam material 
+
+
+Some topics can be studied by two people that will later do a joint presentation. Regardless of the topic, each student should do a 30 minute presentation describing: 1) the problem, 2) the previous state of the art, 3) the content of the new contribution.  Tentative list of topics (paper links will be added soon):
+
+* Asymmetric Numeral Systems
+* Suffix Array Construction
+* Parametrized pattern matching
+* Wavelet matrix
+* Tunneling on BWTs and Wheeler Graphs
+* Range Minumum and related Queries (2 people)
+* LZ-index (2 people)
+* Grammar compression and indexing (2 people)
 
