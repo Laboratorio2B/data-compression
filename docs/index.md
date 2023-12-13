@@ -12,8 +12,8 @@ Computer Science Dept. University of Pisa.
 4. Compression bounds for the BWT. Introduction to compressed indices (29/11).
 5. Wavelet Trees for efficient rank operations. Rank/Select operations on bitvectors (4/12).
 6. Practical bitvector implementations. Compressed bitvectors (RRR representation). Finding the position of the occurrences in a BWT index: uniform sampling and the r-index (6/12).
-7. Locate in the r-index (end). Wheeler Graphs (13/12).
-8. (15/12)
+7. Locate in the r-index (end). Subpath queries in Graph: conditional lower bound. (13/12).
+8. Wheeler Graphs.(15/12)
 
 
 **All lectures are 9am-11am in Sala Seminari EST (Room 351).** There will be no streaming or recording of the lectures. 
@@ -55,10 +55,10 @@ Computer Science Dept. University of Pisa.
 
 Some topics can be studied by two people that will prepare a joint presentation. Regardless of the topic, each student should give a 30 minute presentation describing: 1) the problem, 2) the previous state of the art, 3) the content of the new contribution. Tentative list of topics:
 
-* [Asymmetric Numeral Systems](https://doi.org/10.1145/3397175): the evolution of arithmetic coding (2 people)
+* [Asymmetric Numeral Systems](https://doi.org/10.1145/3397175): the evolution of arithmetic coding (assigned to MR + ?)
 * [Analysis of a Suffix Array construction algorithm](https://doi.org/10.48550/arXiv.1710.01896)
 * Parametrized pattern matching: [the latest solution](https://doi.org/10.1016/j.ipl.2020.106026) and some [background material](https://doi.org/10.1016/j.dam.2018.07.017) 
-* [Applications of Wavelet Trees](https://doi.org/10.1016/j.jda.2013.07.004)
+* [Applications of Wavelet Trees](https://doi.org/10.1016/j.jda.2013.07.004) (assigned to AJ)
 * [Wavelet matrix](https://doi.org/10.1016/j.is.2014.06.002): an alternative layout for Wavelet Trees 
 * [Tunneling on BWTs and Wheeler Graphs](/data-compression/papers/baier_thesis.pdf) (2 people)
 * [Range Minumum](https://doi.org/10.1137/090779759) and [other queries](https://link.springer.com/10.1007/978-3-031-20624-5_5) (2 people)
