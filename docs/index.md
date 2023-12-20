@@ -67,13 +67,13 @@ Some topics can be studied by two people that will prepare a joint presentation.
 * Parametrized pattern matching: [the latest solution](https://doi.org/10.1016/j.ipl.2020.106026) and some [background material](https://doi.org/10.1016/j.dam.2018.07.017) 
 * [Applications of Wavelet Trees](https://doi.org/10.1016/j.jda.2013.07.004) (assigned to AJ)
 * [Wavelet matrix](https://doi.org/10.1016/j.is.2014.06.002): an alternative layout for Wavelet Trees 
-* [Tunneling on BWTs and Wheeler Graphs](/data-compression/papers/baier_thesis.pdf) (TW + ?)
+* [Tunneling on BWTs and Wheeler Graphs](/data-compression/papers/baier_thesis.pdf) (TW + MM)
 * [Range Minumum](https://doi.org/10.1137/090779759) and [other queries](https://link.springer.com/10.1007/978-3-031-20624-5_5) (2 people)
 * [An index based on LZ-parsing](https://doi.org/10.1016/j.tcs.2012.02.006) (LS+THGP)
 * [Universal index based on the concept of attractors](https://doi.org/10.1016/j.tcs.2018.09.007) (2 people)
 * [Grammar compression and indexing](https://doi.org/10.1016/j.jcss.2020.12.001) (2 people)
-* [Succinct Trees](https://doi.org/10.1145/2601073)  (2 people)
-* [Graph/automata indexing](https://arxiv.org/abs/2007.07718) [full study of the deterministic case](https://dl.acm.org/doi/10.1145/3607471) (2 or more people, other material is available if needed)
+* [Succinct Trees](https://doi.org/10.1145/2601073)  (GC+FL)
+* [Graph/automata indexing](https://arxiv.org/abs/2007.07718) [full study of the deterministic case](https://dl.acm.org/doi/10.1145/3607471) (LC + ?, 2 or more people, other material available if needed)
 
 
 All papers should accessible using the department account: contact me if you have any problem. 
