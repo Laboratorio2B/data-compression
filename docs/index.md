@@ -71,9 +71,9 @@ Some topics can be studied by two people that will prepare a joint presentation.
 * [Range Minumum](https://doi.org/10.1137/090779759) and [other queries](https://link.springer.com/10.1007/978-3-031-20624-5_5) (2 people)
 * [An index based on LZ-parsing](https://doi.org/10.1016/j.tcs.2012.02.006) (LS+THGP)
 * [Universal index based on the concept of attractors](https://doi.org/10.1016/j.tcs.2018.09.007) (2 people)
-* [Grammar compression and indexing](https://doi.org/10.1016/j.jcss.2020.12.001) (2 people)
+* [Grammar compression and indexing](https://doi.org/10.1016/j.jcss.2020.12.001) (GT+FA)
 * [Succinct Trees](https://doi.org/10.1145/2601073)  (GC+FL)
-* [Graph/automata indexing](https://arxiv.org/abs/2007.07718) [full study of the deterministic case](https://dl.acm.org/doi/10.1145/3607471) (LC + ?, 2 or more people, other material available if needed)
+* [Graph/automata indexing](https://arxiv.org/abs/2007.07718) [full study of the deterministic case](https://dl.acm.org/doi/10.1145/3607471) (GB + LC + MO)
 
 
 All papers should accessible using the department account: contact me if you have any problem. 
