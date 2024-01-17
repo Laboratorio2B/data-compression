@@ -64,7 +64,7 @@ Some topics can be studied by two people that will prepare a joint presentation.
 
 * [Asymmetric Numeral Systems](https://doi.org/10.1145/3397175): the evolution of arithmetic coding (assigned to MR + SM)
 * [Analysis of a Suffix Array construction algorithm](https://doi.org/10.48550/arXiv.1710.01896)
-* Parametrized pattern matching: [the latest solution](https://doi.org/10.1016/j.ipl.2020.106026) and some [background material](https://doi.org/10.1016/j.dam.2018.07.017) 
+* Parametrized pattern matching: [the latest solution](https://doi.org/10.1016/j.ipl.2020.106026) and some [background material](https://doi.org/10.1016/j.dam.2018.07.017) (LL)
 * [Applications of Wavelet Trees](https://doi.org/10.1016/j.jda.2013.07.004) (assigned to AJ)
 * [Wavelet matrix](https://doi.org/10.1016/j.is.2014.06.002): an alternative layout for Wavelet Trees 
 * [Tunneling on BWTs and Wheeler Graphs](/data-compression/papers/baier_thesis.pdf) (TW + MM)
