@@ -62,7 +62,7 @@ Computer Science Dept. University of Pisa.
 
 Some topics can be studied by two people that will prepare a joint presentation. Regardless of the topic, each student should give a 30 minute presentation describing: 1) the problem, 2) the previous state of the art, 3) the content of the new contribution. Tentative list of topics:
 
-* [Asymmetric Numeral Systems](https://doi.org/10.1145/3397175): the evolution of arithmetic coding (assigned to MR + SM)
+* [Asymmetric Numeral Systems](https://doi.org/10.1145/3397175): the evolution of arithmetic coding (MR + SM **7/2/24**)
 * [Analysis of a Suffix Array construction algorithm](https://doi.org/10.48550/arXiv.1710.01896)
 * Parametrized pattern matching: [the latest solution](https://doi.org/10.1016/j.ipl.2020.106026) and some [background material](https://doi.org/10.1016/j.dam.2018.07.017) (LL)
 * [Applications of Wavelet Trees](https://doi.org/10.1016/j.jda.2013.07.004) (assigned to AJ)
