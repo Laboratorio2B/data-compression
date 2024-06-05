@@ -65,14 +65,14 @@ Some topics can be studied by two people that will prepare a joint presentation.
 * [Asymmetric Numeral Systems](https://doi.org/10.1145/3397175): the evolution of arithmetic coding (MR + SM **7/2/24**)
 * [Analysis of a Suffix Array construction algorithm](https://doi.org/10.48550/arXiv.1710.01896)
 * Parametrized pattern matching: [the latest solution](https://doi.org/10.1016/j.ipl.2020.106026) and some [background material](https://doi.org/10.1016/j.dam.2018.07.017) (LL)
-* [Applications of Wavelet Trees](https://doi.org/10.1016/j.jda.2013.07.004) (assigned to AJ)
-* [Wavelet matrix](https://doi.org/10.1016/j.is.2014.06.002): an alternative layout for Wavelet Trees 
+* [Applications of Wavelet Trees](https://doi.org/10.1016/j.jda.2013.07.004) (AJ)
+* [Wavelet matrix](https://doi.org/10.1016/j.is.2014.06.002): an alternative layout for Wavelet Trees (LG **5/6/24**)
 * [Tunneling on BWTs and Wheeler Graphs](/data-compression/papers/baier_thesis.pdf) (TW + MM)
 * [Range Minumum](https://doi.org/10.1137/090779759) and [other queries](https://link.springer.com/10.1007/978-3-031-20624-5_5) (2 people)
-* [An index based on LZ-parsing](https://doi.org/10.1016/j.tcs.2012.02.006) (LS+THGP)
+* [An index based on LZ-parsing](https://doi.org/10.1016/j.tcs.2012.02.006) (LS+THGP **29/5/24**)
 * [Universal index based on the concept of attractors](https://doi.org/10.1016/j.tcs.2018.09.007) (2 people)
-* [Grammar compression and indexing](https://doi.org/10.1016/j.jcss.2020.12.001) (GT+FA)
-* [Succinct Trees](https://doi.org/10.1145/2601073)  (GC+FL)
+* [Grammar compression and indexing](https://doi.org/10.1016/j.jcss.2020.12.001) (GT+FA **1/3/24**)
+* [Succinct Trees](https://doi.org/10.1145/2601073)  (GC+FL **1/3/24**)
 * [Graph/automata indexing](https://arxiv.org/abs/2007.07718) [full study of the deterministic case](https://dl.acm.org/doi/10.1145/3607471) (GB + LC + MO)
 
 
